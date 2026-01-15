@@ -1,0 +1,2 @@
+# Hakaton
+Quandela Hakaton - ARTeQ
